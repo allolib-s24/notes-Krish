@@ -4,6 +4,8 @@
 
 This project involves composing and arranging music for an Allolib synthesized instrument. The project is structured to satisfy course requirements and demonstrate proficiency in digital audio technology using the Allolib framework. 
 
+Link to translation: https://docs.google.com/document/d/1jiZF6YPq9udyStGnlyqY63kJKzEdhvx2-5kmKR9U6vI/edit?usp=sharing
+
 ### Project Deliverables
 
 1. **A piece of music** composed or arranged for an Allolib synthesized instrument, performed by the student. This includes:
