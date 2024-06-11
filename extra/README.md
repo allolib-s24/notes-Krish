@@ -1,6 +1,7 @@
 # README
 
 ## Overview
+The `GiornoTheme.synthSequence` was my first ever piece put into allolib and my first time trying the piano. It took a while to figure out what note was where and it was the basis of my final project. 
 
 The `PlayNotes.cpp` file is designed to read musical notes from a specified file and play them using the Allolib framework. It uses MIDI note numbers to trigger the notes and includes functionality to handle note duration and timing. This file leverages external libraries and specific classes within Allolib to synthesize and play the music.
 
