@@ -1,6 +1,6 @@
 # Project: Music Composition and Synthesis with Allolib
 
-## Overview
+## Overview (LINK to demo: https://www.youtube.com/watch?v=lmzabyABqJU)
 
 This project involves composing and arranging music for an Allolib synthesized instrument. The project is structured to satisfy course requirements and demonstrate proficiency in digital audio technology using the Allolib framework. 
 
